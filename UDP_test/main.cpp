@@ -1,3 +1,6 @@
+/*this program is create by ly in 2020-07-02*/
+/*app:to UDP receive and send in one window by ui*/
+
 #include "qudpapp.h"
 #include <QApplication>
 
